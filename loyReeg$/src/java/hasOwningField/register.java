@@ -1,4 +1,4 @@
-package matrix.gnu.bin.hasOwningField;
+package loyReeg$.src.java.hasOwningField;
 
 import java.io.Console;
 import java.io.IOException;

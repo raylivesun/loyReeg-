@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.server.jakarta.constructor.tables;
+package loyReeg$.src.java.array.kafka.client.server.jakarta.constructor.tables;
 
 public interface matrix {
 

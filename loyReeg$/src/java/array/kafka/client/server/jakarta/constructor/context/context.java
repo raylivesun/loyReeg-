@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.server.jakarta.constructor.context;
+package loyReeg$.src.java.array.kafka.client.server.jakarta.constructor.context;
 
 public interface context {
 

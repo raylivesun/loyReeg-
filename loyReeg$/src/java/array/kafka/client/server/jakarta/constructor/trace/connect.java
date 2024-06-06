@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.server.jakarta.constructor.trace;
+package loyReeg$.src.java.array.kafka.client.server.jakarta.constructor.trace;
 
 public class connect implements matrix {
 

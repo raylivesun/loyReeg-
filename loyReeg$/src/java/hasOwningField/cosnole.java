@@ -1,4 +1,4 @@
-package matrix.gnu.bin.hasOwningField;
+package loyReeg$.src.java.hasOwningField;
 
 public interface cosnole {
 

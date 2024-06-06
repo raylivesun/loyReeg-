@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.server.Payara.constructor.isArray;
+package loyReeg$.src.java.array.kafka.client.server.Payara.constructor.isArray;
 
 public class matrix {
     public static void length(String name, boolean isArray, boolean array) throws Exception {

@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.community.constructor.countReset;
+package loyReeg$.src.java.array.kafka.client.community.constructor.countReset;
 
 public interface countReset {
 

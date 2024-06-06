@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.community.at;
+package loyReeg$.src.java.array.kafka.client.community.at;
 
 import java.io.IOException;
 import java.io.OutputStream;

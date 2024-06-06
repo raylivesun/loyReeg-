@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.server.jakarta.constructor.error;
+package loyReeg$.src.java.array.kafka.client.server.jakarta.constructor.error;
 
 public class no implements die {
 

@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.server.Payara.constructor.constructor.clear;
+package loyReeg$.src.java.array.kafka.client.server.Payara.constructor.constructor.clear;
 
 public class gotos implements clear {
 

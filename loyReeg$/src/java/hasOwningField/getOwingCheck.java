@@ -1,4 +1,4 @@
-package hasOwningField;
+package loyReeg$.src.java.hasOwningField;
 import java.io.IOException;
 import java.nio.file.Path;
 import java.security.MessageDigest;
@@ -52,9 +52,12 @@ public class getOwingCheck {
     public static void curlDDKidness(String path, String query, String wineStringKey, byte[] URL, Object then) throws IOException {
         // Auto-generated method stub
         if (wineStringKey == null) {
+            @SuppressWarnings("unused")
             String toString = Arrays.toString(wineStringKey.getBytes("UTF-8"));
+            @SuppressWarnings("unused")
             IntStream codePoints = wineStringKey.codePoints();
             wineStringKey.getClass().getName();
+            @SuppressWarnings("unused")
             String toString1 = wineStringKey;
         } else if (wineStringKey.equals(wineStringKey)) {
             then = MessageDigestEvent(wineStringKey);
@@ -617,6 +620,7 @@ public class getOwingCheck {
 
     private static class ValueLayout {
 
+        @SuppressWarnings("unused")
         public ValueLayout() {
         }
     }

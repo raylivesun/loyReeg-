@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.community.constructor.group;
+package loyReeg$.src.java.array.kafka.client.community.constructor.group;
 
 public interface matrix {
 

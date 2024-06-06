@@ -1,4 +1,4 @@
-package hasOwningField;
+package loyReeg$.src.java.hasOwningField;
 
 import java.io.IOException;
 import java.util.Arrays;
@@ -46,6 +46,7 @@ public class onDidChangeNotification {
     public static void getAlgorithmMessageHandle(String[] primerStrong, StringBuffer mBuffer, Messager eventMessager) throws IOException {
         // Auto-generated method stub
         try {
+            @SuppressWarnings("unused")
             int length = mBuffer.toString().length();
         } catch (Exception e) {
             // handle exception
@@ -53,7 +54,7 @@ public class onDidChangeNotification {
         }
     }
 
-    @SuppressWarnings("unlikely-arg-type")
+    @SuppressWarnings("null")
     public static void Promise(StackTraceElement[] value, Object STR) throws Exception {
         // Auto-generated method stub
         value = handleEvent(null, null, null, null);
@@ -80,6 +81,7 @@ public class onDidChangeNotification {
             titleLayout(null, null, null);
         } catch (Exception e) {
             // handle exception
+            @SuppressWarnings("unused")
             boolean startsWith = e.getMessage().startsWith(null);
         }
     }

@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.community.constructor.context;
+package loyReeg$.src.java.array.kafka.client.community.constructor.context;
 
 public class itself implements context {
 

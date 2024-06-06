@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.community.concat;
+package loyReeg$.src.java.array.kafka.client.community.concat;
 
 import java.io.IOException;
 import java.lang.annotation.Annotation;

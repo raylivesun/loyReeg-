@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.community.constructor.count;
+package loyReeg$.src.java.array.kafka.client.community.constructor.count;
 
 public interface community {
 

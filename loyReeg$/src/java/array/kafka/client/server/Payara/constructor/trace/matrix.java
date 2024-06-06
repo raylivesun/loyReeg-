@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.server.Payara.constructor.trace;
+package loyReeg$.src.java.array.kafka.client.server.Payara.constructor.trace;
 
 public interface matrix {
 

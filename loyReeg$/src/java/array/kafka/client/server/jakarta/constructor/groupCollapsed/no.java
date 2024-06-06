@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.server.jakarta.constructor.groupCollapsed;
+package loyReeg$.src.java.array.kafka.client.server.jakarta.constructor.groupCollapsed;
 
 public class no implements die {
 

@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.server.jakarta.constructor.dirxml;
+package loyReeg$.src.java.array.kafka.client.server.jakarta.constructor.dirxml;
 
 public interface filesystem {
 

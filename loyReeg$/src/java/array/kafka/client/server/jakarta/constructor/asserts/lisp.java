@@ -1,4 +1,4 @@
-package matrix.gnu.bin.array.kafka.client.server.jakarta.constructor.asserts;
+package loyReeg$.src.java.array.kafka.client.server.jakarta.constructor.asserts;
 
 import java.io.IOException;
 
