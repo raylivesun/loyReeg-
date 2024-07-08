@@ -17,10 +17,10 @@ public class oracles {
         name.lines();
     }
     public static void name(String from) throws IOException {
-        from = rain(from);
+        from = Ok(from);
     }
     @SuppressWarnings("static-access")
-    private static String rain(String from) {
+    private static String Ok(String from) {
         return from.valueOf(System.getProperty(from));
     }
 
